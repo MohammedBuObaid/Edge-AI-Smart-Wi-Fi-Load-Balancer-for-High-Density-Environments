@@ -6,7 +6,7 @@ The project compares static client allocation with an AI-style load balancing st
 
 ## Contents
 - `DEMO.m` : MATLAB simulation code for Edge-AI load balancing
-- `1122334.png` : Sample simulation output
+- `Poster.png` : Sample simulation output
 - `Edge-Redocx` : Project report
 
 ## How to Run
